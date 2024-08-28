@@ -17,6 +17,10 @@ h3 {
   color: #333;
 }
 
+div {
+  text-align: center;
+  }
+
 button {
   padding: 10px 20px;
   margin: 10px;
